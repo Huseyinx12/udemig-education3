@@ -24,6 +24,8 @@ software education. The site offers courses in <strong>Frontend, Backend, React 
 
 <li><strong>CSS3</strong> 🎨 - Styling with modern and responsive design</li>  
 
+<li><strong>SCSS</strong>🎨 - Styling with modern and responsive design</li>  
+
 <li><strong>JavaScript</strong> ⚡ - Adding interactive features</li>  
 
 <li><strong>Responsive Design</strong> 📱 - Fully optimized for all devices</li>  
